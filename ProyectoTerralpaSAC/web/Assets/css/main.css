@@ -1,0 +1,20 @@
+body{
+    background: url(../..//img/2.jpg) no-repeat fixed;;
+    padding-top: 10px; 
+    background-size: 100% 100%;
+    background-position: 50%;
+    
+}
+
+.muestra{
+    background-color: rgba(255,255,255,0.8);
+}
+
+.subC{
+    background-color: rgba(255,255,255,0.8);
+}
+
+.h1,h2{
+    font-family: 'Signika', sans-serif;
+}
+
